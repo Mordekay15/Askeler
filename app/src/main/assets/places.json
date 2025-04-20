@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Restaurant Wolkoff",
+    "address": "Kauppakatu 26, Lappeenranta",
+    "latitude": 61.060118,
+    "longitude": 28.185221,
+    "type": "Restaurant",
+    "description": "A fine dining restaurant in a historic building, offering Finnish cuisine with modern twists. Known for their pasta dishes and evening atmosphere."
+  },
+  {
+    "name": "Kehruuhuone",
+    "address": "Kristiinankatu 20, Lappeenranta",
+    "latitude": 61.0670,
+    "longitude": 28.1826,
+    "type": "Restaurant",
+    "description": "A cozy restaurant by Lake Saimaa with beautiful views. Serves traditional Finnish dishes and has a special pasta menu in the evenings."
+  },
+  {
+    "name": "Rosso Lappeenranta",
+    "address": "Kauppakatu 29-31, Lappeenranta",
+    "latitude": 61.0595,
+    "longitude": 28.1852,
+    "type": "Restaurant",
+    "description": "Italian-style restaurant chain with a variety of pasta dishes. Family-friendly and open late in the evening."
+  },
+  {
+    "name": "Cafe Majurska",
+    "address": "Kristiinankatu 1, Lappeenranta",
+    "latitude": 61.064452,
+    "longitude": 28.183932,
+    "type": "Cafe",
+    "description": "A charming cafe in a historic wooden house. Known for its cozy atmosphere and homemade pastries. Great for evening visits."
+  },
+  {
+    "name": "Wanha Makasiini",
+    "address": "Satamatie 4, Lappeenranta",
+    "latitude": 61.0675,
+    "longitude": 28.1858,
+    "type": "Restaurant",
+    "description": "Restaurant in a historic warehouse by the harbor. Specializes in seafood and pasta dishes. Romantic evening atmosphere with lake views."
+  },
+  {
+    "name": "Angus Steak & Wine",
+    "address": "Kauppakatu 40, Lappeenranta",
+    "latitude": 61.058095,
+    "longitude": 28.186121,
+    "type": "Restaurant",
+    "description": "Upscale steakhouse that also offers pasta dishes. Elegant evening dining with an extensive wine list."
+  },
+  {
+    "name": "Cafe Satamatie 6",
+    "address": "Satamatie 6, Lappeenranta",
+    "latitude": 61.067823,
+    "longitude": 28.183989,
+    "type": "Cafe",
+    "description": "Waterfront cafe with panoramic views of Lake Saimaa. Relaxed atmosphere, perfect for evening coffee and light meals."
+  }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="google_access_token" translatable="false" tools:ignore="UnusedResources">AIzaSyD0hymfCKJ4NKLzfh9bKwCy5I0V9Gpaheo</string>
+    <string name="gemini_access_token" translatable="false" tools:ignore="UnusedResources">AIzaSyBHFfkr22yTszJuNX1vVHcF9M73xRI9rJ4</string>
+</resources>
